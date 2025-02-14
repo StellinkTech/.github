@@ -1,8 +1,8 @@
-# 🚀 StellinkTech  
+# 🚀 StellinkTech
 
 **StellinkTech** is an innovative technology company focused on bridging **local solutions** with **global impact** through cutting-edge software and IT services.  
 
-## 🌟 About Us  
+## 🌟 About Us
 At **StellinkTech**, we believe in the power of **connectivity, intelligence, and innovation**. Our mission is to build **scalable, future-ready** digital solutions that empower businesses and individuals worldwide.  
 
 The name **"StellinkTech"** represents:  
