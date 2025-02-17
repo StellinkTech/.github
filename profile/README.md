@@ -5,7 +5,7 @@
 ## 🌟 About Us
 At **StellinkTech**, we believe in the power of **connectivity, intelligence, and innovation**. Our mission is to build **scalable, future-ready** digital solutions that empower businesses and individuals worldwide.  
 
-The name **"StellinkTech"** represents:  
+The name **"StellinkTech"** represents:
 - **"Stellar"** – Excellence, limitless innovation, and cutting-edge technology.  
 - **"Link"** – Seamless connectivity, collaboration, and integration.  
 - **"Tech"** – Advanced technology solutions that drive digital transformation.  
